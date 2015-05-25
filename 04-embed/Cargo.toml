@@ -1,0 +1,8 @@
+[package]
+name = "04-embed"
+version = "0.1.0"
+authors = ["Akademic <public@akademic.name>"]
+
+[lib]
+name = "embed"
+crate-type = ["dylib"]
